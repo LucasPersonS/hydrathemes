@@ -19,7 +19,7 @@ function addBackgroundVideo() {
     
     // Adicionar fonte do vídeo
     const source = document.createElement('source');
-    source.src = 'https://video.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/f704cba9-9eb2-4d08-ba91-0f9342df6349/mp4';
+    source.src = 'https://www.youtube.com/watch?v=grlwHyfrTNQ';
     source.type = 'video/mp4';
     
     // Montar e adicionar ao documento
